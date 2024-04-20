@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<a href="https://tickets.dventura.pt" target="_blank">See it in action :D</a>
+See it in action :D <a href="https://tickets.dventura.pt">ticket.dventura.pt</a>
 
 ## About Laravel
 
